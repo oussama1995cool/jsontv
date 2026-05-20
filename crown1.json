@@ -1,5 +1,5 @@
 {
-  "testmode": false,
+  "testmode": true,
   "interAdId": "YOUR_APPLOVIN_INTERSTITIAL_AD_UNIT_ID",
   "rewardAdId": "YOUR_APPLOVIN_REWARDED_AD_UNIT_ID",
   "appOpenAdId": "YOUR_APPLOVIN_APP_OPEN_AD_UNIT_ID"
