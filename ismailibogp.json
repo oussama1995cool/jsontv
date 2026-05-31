@@ -1,0 +1,11 @@
+{
+  "enablecontact": false,
+  "qrvalue": "https://example.com/playlist",
+  "whatsappnumber": "+212600000000",
+  "website": "https://example.com",
+  "1mPrice": "10€",
+  "3mPrice": "25€",
+  "6mPrice": "45€",
+  "1YPrice": "80€",
+  "code": "1234"
+}
