@@ -1,5 +1,5 @@
 {
-  "enablecontact": false,
+  "enablecontact": true,
   "qrvalue": "https://example.com/playlist",
   "whatsappnumber": "+212600000000",
   "website": "https://example.com",
