@@ -1,10 +1,10 @@
 {
-  "useYodo": true,
+  "useYodo": false,
   "showBannerOnInit": true,
 
   "enableYodoUserPrivacyDialog": true,
-  "yodoUserAgreementUrl": "https://yourdomain.com/terms",
-  "yodoPrivacyPolicyUrl": "https://yourdomain.com/privacy",
+  "yodoUserAgreementUrl": "https://mas.yodo1.com/about/team-conditions",
+  "yodoPrivacyPolicyUrl": "https://policy.yodo1.com/website/en/privacy.html",
 
   "inmobiAccountId": "YOUR_INMOBI_ACCOUNT_ID",
 
