@@ -1,5 +1,10 @@
 {
   "useYodo": true,
+  "showBannerOnInit": true,
+
+  "enableYodoUserPrivacyDialog": true,
+  "yodoUserAgreementUrl": "https://yourdomain.com/terms",
+  "yodoPrivacyPolicyUrl": "https://yourdomain.com/privacy",
 
   "inmobiAccountId": "YOUR_INMOBI_ACCOUNT_ID",
 
@@ -13,7 +18,5 @@
   "inmobiIOSRewardedId": "IOS_REWARDED_PLACEMENT_ID",
 
   "inmobiAndroidAppOpenId": "ANDROID_SPLASH_INTERSTITIAL_PLACEMENT_ID",
-  "inmobiIOSAppOpenId": "IOS_SPLASH_INTERSTITIAL_PLACEMENT_ID",
-
-  "showBannerOnInit": true
+  "inmobiIOSAppOpenId": "IOS_SPLASH_INTERSTITIAL_PLACEMENT_ID"
 }
