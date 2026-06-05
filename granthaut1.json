@@ -1,0 +1,19 @@
+{
+  "useYodo": true,
+
+  "inmobiAccountId": "YOUR_INMOBI_ACCOUNT_ID",
+
+  "inmobiAndroidBannerId": "ANDROID_BANNER_PLACEMENT_ID",
+  "inmobiIOSBannerId": "IOS_BANNER_PLACEMENT_ID",
+
+  "inmobiAndroidInterstitialId": "ANDROID_INTERSTITIAL_PLACEMENT_ID",
+  "inmobiIOSInterstitialId": "IOS_INTERSTITIAL_PLACEMENT_ID",
+
+  "inmobiAndroidRewardedId": "ANDROID_REWARDED_PLACEMENT_ID",
+  "inmobiIOSRewardedId": "IOS_REWARDED_PLACEMENT_ID",
+
+  "inmobiAndroidAppOpenId": "ANDROID_SPLASH_INTERSTITIAL_PLACEMENT_ID",
+  "inmobiIOSAppOpenId": "IOS_SPLASH_INTERSTITIAL_PLACEMENT_ID",
+
+  "showBannerOnInit": true
+}
