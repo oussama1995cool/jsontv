@@ -1,8 +1,8 @@
 {
-  "enablecontact": false,
-  "qrvalue": "https://example.com/playlist",
-  "whatsappnumber": "+212600000000",
-  "website": "https://example.com",
+  "enablecontact": true,
+  "qrvalue": "https://api.whatsapp.com/send?phone=447400455889",
+  "whatsappnumber": "+447400455889",
+  "website": "https://iptvflixpro.com/",
   "1mPrice": "10€",
   "3mPrice": "25€",
   "6mPrice": "45€",
