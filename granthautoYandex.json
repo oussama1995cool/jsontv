@@ -1,0 +1,15 @@
+{
+  "showBannerOnInit": true,
+  "enableYandexDebugLogs": false,
+  "ageRestrictedUser": false,
+
+  "yandexAndroidAppOpenId": "R-M-XXXXXX-1",
+  "yandexAndroidInterstitialId": "R-M-XXXXXX-2",
+  "yandexAndroidRewardedId": "R-M-XXXXXX-3",
+  "yandexAndroidBannerId": "R-M-XXXXXX-4",
+
+  "yandexIOSAppOpenId": "R-M-XXXXXX-5",
+  "yandexIOSInterstitialId": "R-M-XXXXXX-6",
+  "yandexIOSRewardedId": "R-M-XXXXXX-7",
+  "yandexIOSBannerId": "R-M-XXXXXX-8"
+}
